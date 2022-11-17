@@ -1,0 +1,11 @@
+C:\Users\James Wisecarver\source\repos\HotelBookingApp\HotelBookingApp\bin\Debug\HotelBookingApp.exe.config
+C:\Users\James Wisecarver\source\repos\HotelBookingApp\HotelBookingApp\bin\Debug\HotelBookingApp.exe
+C:\Users\James Wisecarver\source\repos\HotelBookingApp\HotelBookingApp\bin\Debug\HotelBookingApp.pdb
+C:\Users\James Wisecarver\source\repos\HotelBookingApp\HotelBookingApp\obj\Debug\HotelBookingApp.csproj.AssemblyReference.cache
+C:\Users\James Wisecarver\source\repos\HotelBookingApp\HotelBookingApp\obj\Debug\HotelBookingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\James Wisecarver\source\repos\HotelBookingApp\HotelBookingApp\obj\Debug\HotelBookingApp.Form1.resources
+C:\Users\James Wisecarver\source\repos\HotelBookingApp\HotelBookingApp\obj\Debug\HotelBookingApp.Properties.Resources.resources
+C:\Users\James Wisecarver\source\repos\HotelBookingApp\HotelBookingApp\obj\Debug\HotelBookingApp.csproj.GenerateResource.cache
+C:\Users\James Wisecarver\source\repos\HotelBookingApp\HotelBookingApp\obj\Debug\HotelBookingApp.csproj.CoreCompileInputs.cache
+C:\Users\James Wisecarver\source\repos\HotelBookingApp\HotelBookingApp\obj\Debug\HotelBookingApp.exe
+C:\Users\James Wisecarver\source\repos\HotelBookingApp\HotelBookingApp\obj\Debug\HotelBookingApp.pdb
